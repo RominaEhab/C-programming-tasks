@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1557221702 source:e:\amit embedded\c programming\tasks\task 3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1557221702 source:e:\amit embedded\c programming\tasks\task 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
